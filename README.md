@@ -31,3 +31,5 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=Trello&logoColor=white"/>
 </p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DDinoBox)](https://github.com/DDinoBox/github-readme-stats)
